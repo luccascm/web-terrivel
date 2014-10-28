@@ -1,0 +1,40 @@
+body{
+	background-color: #eaeaea;
+	margin
+}
+
+.form-title{
+	text-align: center;
+}
+
+.form-area{
+	background-color: white;
+	height: auto;
+	border: 1px solid silver;
+	width: 45%;
+	text-align: center;
+	display: table;
+	padding: 0 10px;
+}
+.form-get{
+	float: left;
+}
+.form-post{
+	float: right;
+}
+
+.form-linha{
+	display: table-row;
+}
+
+span.form-coluna{
+	display: table-cell;
+	text-align: left;
+	padding-right: 20px;
+	padding-top: 10px;
+}
+
+span.form-coluna output{
+	display: inline-block;
+	width: 30px;
+}
